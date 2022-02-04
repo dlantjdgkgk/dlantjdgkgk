@@ -1,7 +1,7 @@
 # LeeMooSeong
-# <h3 align="center"> Tech Stack </h3>
-Techs that I've used at least once
-<div style="block">
+<h3 align="center"> Tech Stack </h3>
+<h3 align="center"> Techs that I've used at least once </h3>
+<div style="flex">
  <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-325aa8?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-a83432?style=flat-square&logo=HTML5&logoColor=white"/>
