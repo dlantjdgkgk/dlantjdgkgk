@@ -1,16 +1,15 @@
-### Hi there 👋
+# LeeMooSeong
+# <h3 align="center"> Tech Stack </h3>
+Techs that I've used at least once
+<div style="block">
+ <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-325aa8?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-a83432?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-32a85d?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-32a8a4?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-7532a8?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3e32a8?style=flat-square&logo=TypeScript&logoColor=white"/>
+</div>
 
-<!--
-**dlantjdgkgk/dlantjdgkgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
