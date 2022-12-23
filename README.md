@@ -7,8 +7,6 @@
 <div align="center"><h1>🧑‍💻Tech Stack!!👨‍</h1></div>
 <div align="center"><h2>Front-end tech stack that I studying!!</h2></div><br>
 
-<h3 align="center"> Tech Stack </h3>
-<h3 align="center"> Techs that I've used at least once </h3>
 <p align="center">
  <img src="https://img.shields.io/badge/HTML5-a83432?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-325aa8?style=flat-square&logo=CSS3&logoColor=white"/>
