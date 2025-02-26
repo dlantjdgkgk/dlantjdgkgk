@@ -1,9 +1,4 @@
 ### 어떠한 상황이든 웃으면서 맞이하는 긍정적인 개발자 이무성 입니다. 👋<br><br>
-
-😄프론트엔드 개발자를 꿈꾸고 있습니다!!😄<br>
-
-🧐 현재 <b>React와 Next.js</b>를 열심히 공부하고 있어요.📖 <br><br>
-
 <div align="center"><h1>🧑‍💻Tech Stack!!👨‍</h1></div>
 
 <p align="center">
